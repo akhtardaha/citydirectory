@@ -1,0 +1,29 @@
+/*!
+ * style.css
+ * It will contains custom css
+ */
+header h1{
+	font-size: 36px;
+	background-color: #f8e71c;
+	font-family: sans-serif;
+	padding: 15px 0px;
+	border: 1px solid;
+}
+
+.border-bottom p{
+	border-bottom: 1px solid silver;
+	padding-bottom: 15px;
+}
+.padding{
+	padding: 0 5px;
+}
+.prev{
+	display: none;
+}
+.cursor{
+	cursor: pointer;
+}
+.bottomspace{
+	height: 25px;
+	clear: both;
+}
